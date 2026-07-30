@@ -4,7 +4,7 @@ A calculator application built in **two versions** to demonstrate both Java prog
 
 ## 🌐 Live Demo
 
-**Try it here:** https://manvi136.github.io/Java-Calculator/
+**Try it here:** https://manvi136.github.io/Calculator/
 
 ---
 
